@@ -1,2 +1,2 @@
-Creating b a new branch is quick.
+Creataing b a new branch is quick.
 ggg
